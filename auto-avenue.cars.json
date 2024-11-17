@@ -1,0 +1,163 @@
+[{
+  "_id": {
+    "$oid": "672e6845fe84021bd8b15ebf"
+  },
+  "make": "Tata",
+  "model": "Punch",
+  "versions": [
+    "Pure",
+    "Adventure",
+    "Accomplished"
+  ],
+  "brochureLink": "https://cars.tatamotors.com/content/dam/tml/pv/products/punch/year-2024/ice/promoting-vc/brochures/PUNCH-BROCHURE-sep2024.pdf",
+  "imageUrl": "https://delen.s3.ap-southeast-1.amazonaws.com/Tata_Punch_Orcus_white_with_Black_roof_ff62c6e04c.jpg",
+  "__v": 0,
+  "car-info": "The Tata Punch is a compact SUV with a bold design, featuring 90-degree door openings for easy access, projector headlamps, and spacious interiors. Known for its safety features and fuel efficiency, it’s a great choice for city driving and short trips.",
+  "prices": [
+    "₹5.99 lakh",
+    "₹6.89 lakh",
+    "₹7.99 lakh"
+  ]
+},
+{
+  "_id": {
+    "$oid": "672e6845fe84021bd8b15ec0"
+  },
+  "make": "Maruti Suzuki",
+  "model": "Dzire",
+  "versions": [
+    "LXi",
+    "VXi",
+    "ZXi"
+  ],
+  "brochureLink": "https://stc.aeplcdn.com/f/brochure/10/1327/ke67vii.pdf",
+  "imageUrl": "https://images.yourstory.com/cs/54/9aed5fa0c8be11e9a36aeb06ee850db6/Imagewdak-1584709151686.jpg?mode=crop&crop=faces&ar=2%3A1&format=auto&w=1920&q=75",
+  "__v": 0,
+  "car-info": "The Dzire is a compact sedan, popular for its fuel efficiency and smooth drive, with a refined interior and various comfort features. The car’s 1.2L petrol engine ensures good mileage, making it a favorite for small families.",
+  "prices": [
+    "₹6.51 lakh",
+    "₹7.35 lakh",
+    "₹8.15 lakh"
+  ]
+},
+{
+  "_id": {
+    "$oid": "672e6845fe84021bd8b15ec1"
+  },
+  "make": "Mahindra",
+  "model": "Thar",
+  "versions": [
+    "AX",
+    "LX",
+    "LX Convertible"
+  ],
+  "brochureLink": "https://stc.aeplcdn.com/f/brochure/9/1260/1n1f3ii.pdf",
+  "imageUrl": "https://imgd.aeplcdn.com/1920x1080/n/cw/ec/40087/thar-exterior-right-front-three-quarter-35.jpeg?isig=0&q=80&q=80",
+  "__v": 0,
+  "car-info": "Mahindra Thar is an off-road SUV with a rugged build and powerful performance, popular among adventure seekers. It comes with 4x4 capability and a robust design ideal for challenging terrains.",
+  "prices": [
+    "₹13.49 lakh",
+    "₹14.29 lakh",
+    "₹15.09 lakh"
+  ]
+},
+{
+  "_id": {
+    "$oid": "672e6845fe84021bd8b15ec2"
+  },
+  "make": "Hyundai",
+  "model": "Creta",
+  "versions": [
+    "E",
+    "EX",
+    "SX"
+  ],
+  "brochureLink": "https://stc.aeplcdn.com/f/brochure/8/1729/yb9ajpi.pdf",
+  "imageUrl": " https://imgd.aeplcdn.com/664x374/n/cw/ec/41564/hyundai-creta-right-front-three-quarter9.jpeg?q=80",
+  "__v": 0,
+  "car-info": "The Hyundai Creta is a versatile compact SUV with premium features, a spacious cabin, and advanced safety technologies. It is known for its refined styling and high-performance engines.",
+  "prices": [
+    "₹10.87 lakh",
+    "₹11.97 lakh",
+    "₹13.98 lakh"
+  ]
+},
+{
+  "_id": {
+    "$oid": "672e6845fe84021bd8b15ec3"
+  },
+  "make": "Kia",
+  "model": "Seltos",
+  "versions": [
+    "HTE",
+    "HTK",
+    "GTX"
+  ],
+  "brochureLink": "https://stc.aeplcdn.com/f/brochure/70/2807/eeghooi.pdf",
+  "imageUrl": "https://www.bajajmall.in/emistore/media/catalog/product/k/i/kiaseltosgtxplus15dieselatimperialblue_base_1.jpeg\n",
+  "__v": 0,
+  "car-info": "The Kia Seltos is a feature-rich compact SUV, known for its stylish design, high-tech features, and comfort. It’s suitable for families looking for a reliable and tech-forward vehicle.",
+  "prices": [
+    "₹10.89 lakh",
+    "₹12.89 lakh",
+    "₹16.39 lakh"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67307aaec31d4f3e8c381f9f"
+  },
+  "make": "Hyundai i20",
+  "model": "i20",
+  "versions": [
+    "Magna",
+    "Sportz",
+    "Asta"
+  ],
+  "prices": [
+    "₹6.99 lakh",
+    "₹7.85 lakh",
+    "₹8.69 lakh"
+  ],
+  "brochureLink": "https://stc.aeplcdn.com/f/brochure/8/2521/0zqc95h.pdf",
+  "imageUrl": "https://cdni.autocarindia.com/Utils/ImageResizer.ashx?n=https://cdni.autocarindia.com/Galleries/20201105013406_Hyundai-i20-front-1.jpg&w=736&h=488&q=75&c=1",
+  "car-info": "The Honda City is a spacious sedan known for its refined interiors, powerful engine options, and fuel efficiency."
+},
+{
+  "_id": {
+    "$oid": "67307b2ac31d4f3e8c381fa0"
+  },
+  "make": "Mahindra",
+  "model": "XUV300",
+  "versions": [
+    "W4",
+    "W6",
+    "W8"
+  ],
+  "prices": [
+    "₹8.41 lakh",
+    "₹9.40 lakh",
+    "₹10.65 lakh"
+  ],
+  "brochureLink": "https://img.gaadicdn.com/brochures/files/Mahindra-XUV300/W4-BSIV/1669697961799/_XUV300_11832314_RP_9.pdf",
+  "imageUrl": "https://imgd.aeplcdn.com/370x208/n/cw/ec/26918/xuv300-exterior-right-front-three-quarter-148709.jpeg?isig=0&q=80",
+  "car-info": "The Mahindra XUV300 is a subcompact SUV that focuses on safety and performance. It offers powerful engine options, multiple airbags, and other safety features, making it an excellent choice for family trips and highway cruising. With a comfortable interior, it provides a spacious cabin and ample storage."
+},
+{
+  "_id": {
+    "$oid": "67307b35c31d4f3e8c381fa1"
+  },
+  "make": "Mercedes-Benz",
+  "model": "S-Class",
+  "versions": [
+    "S 350d",
+    "S 450 4MATIC"
+  ],
+  "prices": [
+    "₹1.60 crore",
+    "₹1.69 crore"
+  ],
+  "brochureLink": "https://www.mercedes-benz.co.in/content/dam/india/passengercars/models/s-class/The-Mercedes-Benz-S-Class.pdf",
+  "imageUrl": "https://imgd-ct.aeplcdn.com/1056x660/n/cw/ec/48067/s-class-exterior-right-front-three-quarter-9.jpeg?isig=0&q=80",
+  "car-info": "The Mercedes-Benz S-Class is the flagship luxury sedan from Mercedes, known for its exquisite design, advanced technology, and unmatched comfort. This vehicle features plush interiors, cutting-edge safety systems, and innovative entertainment options, ensuring a luxurious experience for both drivers and passengers. The S-Class combines powerful performance with a smooth, quiet ride, making it a top choice among luxury car buyers in India."
+}]
